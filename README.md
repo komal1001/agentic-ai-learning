@@ -43,43 +43,6 @@ python agent_v3.py
 
 ---
 
-## Why this README is GOOD (so you’re confident)
+## This repository contains early experiments with simple agent-based programs in Python.
 
-It shows:
-- You understand what an **agent** is
-- You are learning **step by step**
-- You can **explain your code**
-- You are actively improving (not pretending to be an expert)
-
-Recruiters and instructors like this style because it’s **honest and clear**.
-
----
-
-## What NOT to do in README (important)
-❌ Don’t claim expertise  
-❌ Don’t write long theory  
-❌ Don’t copy marketing language  
-
-Simple > impressive.
-
----
-
-## Your next action (2 minutes)
-1. Paste the README
-2. Save
-3. Upload it with your Python files
-4. Commit
-
-Then stop for today.
-
----
-
-When you’re done, reply with:
-> **“README added”**
-
-Tomorrow we’ll:
-- connect your agent to a real AI model  
-- and slowly move into true **agentic AI**
-
-You’re doing this the *right* way.
 
