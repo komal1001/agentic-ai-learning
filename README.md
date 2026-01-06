@@ -27,6 +27,9 @@ An agent is a program that:
 - `agent_v3.py`  
   An improved agent that also explains **why** it chose a particular action.
 
+ - gent_v4_planner.py
+  planning agent with memory
+
 ---
 
 ## How to Run
@@ -44,5 +47,6 @@ python agent_v3.py
 ---
 
 ## This repository contains early experiments with simple agent-based programs in Python.
+
 
 
