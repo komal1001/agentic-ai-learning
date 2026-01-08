@@ -30,6 +30,8 @@ An agent is a program that:
  - gent_v4_planner.py
   planning agent with memory
 
+ `agent_v5_adaptive.py` — uses memory to avoid repeating the same work in a single run
+
 ---
 
 ## How to Run
@@ -47,6 +49,7 @@ python agent_v3.py
 ---
 
 ## This repository contains early experiments with simple agent-based programs in Python.
+
 
 
 
